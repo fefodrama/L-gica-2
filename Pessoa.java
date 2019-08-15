@@ -12,7 +12,7 @@ public class Pessoa {
 		Pessoa objeto1 = new Pessoa();
 		objeto1.nome = "fefo";
 		objeto1.Endereço = "SQS 116";
-		objeto1.RG = 3441101;
+		objeto1.RG = 1234456;
 		
 		Pessoa objeto2 = new Pessoa();
 		objeto2.nome = "Dog";
